@@ -1,12 +1,10 @@
-## Oioi! Meu nome é Ana Clara Mendes Bull :octocat:
-### Fique à vontade! 
+## Oioi! Fique à vontade :octocat:
 <div align="center">
   <a href="https://github.com/anaclarabull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaclarabull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarabull&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
